@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "ol": "^6.15.1",
+    "ol-geocoder": "^4.1.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
